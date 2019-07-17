@@ -22,6 +22,8 @@ function johnLennonFacts(facts)
     
     i++;
   }
+  
+  return facts;
 }
 
 function iLoveTheBeatles(num)
